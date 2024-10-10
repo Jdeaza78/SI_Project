@@ -1,0 +1,9 @@
+mean(X2018_Central_Park_Squirrel_Census_Hectare_Data_20240919$`Number of sighters`)
+median(X2018_Central_Park_Squirrel_Census_Hectare_Data_20240919$`Number of sighters`)
+var(X2018_Central_Park_Squirrel_Census_Hectare_Data_20240919$`Number of sighters`)
+sd(X2018_Central_Park_Squirrel_Census_Hectare_Data_20240919$`Number of sighters`)
+
+mean(X2018_Central_Park_Squirrel_Census_Hectare_Data_20240919$`Number of Squirrels`)
+median(X2018_Central_Park_Squirrel_Census_Hectare_Data_20240919$`Number of Squirrels`)
+var(X2018_Central_Park_Squirrel_Census_Hectare_Data_20240919$`Number of Squirrels`)
+sd(X2018_Central_Park_Squirrel_Census_Hectare_Data_20240919$`Number of Squirrels`)
